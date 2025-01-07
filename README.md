@@ -11,3 +11,7 @@ demo of dcc transfer table for ho trains
 // udp communicate with the picow transfer table
 
 // bluetooth communicate with dcc station
+
+youtube demo ---  https://www.youtube.com/watch?v=mKEPC3HMato
+
+
